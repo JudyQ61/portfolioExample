@@ -1,0 +1,67 @@
+body {
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */  
+}
+
+h1{
+    color: darkslategray;
+    Text-align: center;
+
+}
+
+p {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+color: darkslategray;
+text-align: center;
+background-color: lightcyan;
+width: 300px;
+border-left: solid 20px darkslategray;
+padding: 20px;
+margin-left: 100px;
+margin-bottom: 20px;
+
+}
+#Cole {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: darkslategray;
+    text-align: center;
+    background-color: lightcyan;
+    width: 300px;
+    border-left: solid 20px darkslategray;
+    padding: 20px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+
+}
+#Liam {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: darkslategray;
+    text-align: center;
+    background-color: lightcyan;
+    width: 300px;
+    border-left: solid 20px darkslategray;
+    padding: 20px;
+    margin-left: 500px;  
+    margin-bottom: 20px;
+}
+#Patrick {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: darkslategray;
+    text-align: center;
+    background-color: lightcyan;
+    width: 300px;
+    border-left: solid 20px darkslategray;
+    padding: 20px;
+    margin-left: 700px;
+    margin-bottom: 20px;
+}
+img {
+width:300px;
+margin-left: 700px;
+
+}
