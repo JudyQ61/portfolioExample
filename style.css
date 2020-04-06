@@ -11,57 +11,114 @@ h1{
 }
 
 p {
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-family: 'Segoe UI', Tahoma, Geneva, Vesrdana, sans-serif;
 font-size: 20px;
 color: darkslategray;
 text-align: center;
 background-color: lightcyan;
 width: 300px;
+height: 300px;
 border-left: solid 20px darkslategray;
 padding: 20px;
-margin-left: 100px;
-margin-bottom: 20px;
+padding-top: 50px;
+}
+
+
+
+#jOuterbox {
+    width: 50%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
 
 }
-#Cole {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    color: darkslategray;
-    text-align: center;
-    background-color: lightcyan;
-    width: 300px;
-    border-left: solid 20px darkslategray;
-    padding: 20px;
-    margin-left: 300px;
-    margin-bottom: 20px;
+#jImg {
+    width: 230px;
+    
+}
+
+#cOuterbox {
+    width: 55%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:200px;
+    margin-bottom: 10px;
+}
+
+#cImg {
+    width: 320px;
+    vertical-align: text-top;
 
 }
-#Liam {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    color: darkslategray;
-    text-align: center;
-    background-color: lightcyan;
-    width: 300px;
-    border-left: solid 20px darkslategray;
-    padding: 20px;
-    margin-left: 500px;  
-    margin-bottom: 20px;
-}
-#Patrick {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    color: darkslategray;
-    text-align: center;
-    background-color: lightcyan;
-    width: 300px;
-    border-left: solid 20px darkslategray;
-    padding: 20px;
-    margin-left: 700px;
-    margin-bottom: 20px;
-}
-img {
-width:300px;
-margin-left: 700px;
 
+#lOuterbox {
+    width: 65%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:400px;
+    margin-bottom: 20px;
 }
+
+#lImg {
+    width: 487px;
+}
+
+#pOuterbox {
+    width: 65%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:600px;
+    margin-bottom: 20px;
+    
+}
+#pImg {
+    width: 487px;
+    
+}
+
+#dsi {
+    width: 80%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:100px;
+    margin-bottom: 20px;
+    
+   
+}
+
+
+.button {
+    background-color:darkslategray; color: white; 
+    width: 200px;
+    height: 100px;
+    padding-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    transition: 3s;
+    
+    }
+
+   
+#dsiImg {
+    width: 350px;
+}
+
+
+
+
+
